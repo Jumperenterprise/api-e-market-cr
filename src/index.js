@@ -12,7 +12,7 @@ app.use(express.json());
 
 // routes
 app.use(require('./routes'));
-app.use('/api/movies', require('./routes/movies'));
+app.use('/products', require('./routes/products'));
 app.use('/api/users', require('./routes/users'));
 
 // starting the server

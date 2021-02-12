@@ -1,16 +1,30 @@
 [
     {
-        "id": "1",
-        "title": "Aliens",
-        "director": "James Cameron",
-        "year": "1986",
-        "rating": "8.5"
-    },
-    {
-        "id": "2",
-        "title": "The Dark Knight",
-        "director": "Cristopher Nolan",
-        "year": "2008",
-        "rating": "10.0"
-    }
+        "id": "3",
+        "image": "assets/images/mug.png",
+        "title": "Mug",
+        "price": 8000,
+        "description": "bla bla bla bla bla"
+      },
+      {
+        "id": "4",
+        "image": "assets/images/pin.png",
+        "title": "Pin",
+        "price": 1000,
+        "description": "bla bla bla bla bla"
+      },
+      {
+        "id": "5",
+        "image": "assets/images/stickers1.png",
+        "title": "Stickers",
+        "price": 7000,
+        "description": "bla bla bla bla bla"
+      },
+      {
+        "id": "6",
+        "image": "assets/images/stickers2.png",
+        "title": "Stickers",
+        "price": 80000,
+        "description": "bla bla bla bla bla"
+      }     
 ]
